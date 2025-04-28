@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpubsub_proto.a CMakeFiles/pubsub_proto.dir/pubsub.pb.cc.o CMakeFiles/pubsub_proto.dir/pubsub.grpc.pb.cc.o
+/usr/bin/ranlib libpubsub_proto.a

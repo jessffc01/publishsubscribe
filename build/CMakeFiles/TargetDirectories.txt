@@ -1,0 +1,5 @@
+/home/mint/Documentos/pubsub_grpc/build/CMakeFiles/pubsub_proto.dir
+/home/mint/Documentos/pubsub_grpc/build/CMakeFiles/server.dir
+/home/mint/Documentos/pubsub_grpc/build/CMakeFiles/client.dir
+/home/mint/Documentos/pubsub_grpc/build/CMakeFiles/edit_cache.dir
+/home/mint/Documentos/pubsub_grpc/build/CMakeFiles/rebuild_cache.dir
